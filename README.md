@@ -7,6 +7,6 @@ The idea is to take a textual data as input (such as a IT incident tickets, cust
  * This solution streamlines classification workflows by automatically mapping textual input to the most relevant hierarchical categories, reducing manual tagging efforts and accelerating decision-making processes across diverse industries.
  * Using lora adapters, our solution enables efficient fine-tuning of Phi-3 model while minimizing computational overhead. The resulting trainable LoRA adapters can be seamlessly applied in multi-adapter settings, providing flexibility for deployment across various use cases. 
  * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need customized Machine Learning and Deep Learning solutions? Get in touch!
- *
- * ## Amazon Marketplace Link
+   
+## Amazon Marketplace Link
 The product can be found [here](https://aws.amazon.com/marketplace/]
