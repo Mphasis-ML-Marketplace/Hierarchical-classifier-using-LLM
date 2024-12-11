@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/52870127-9139-4637-afec-4574aa02dda6)![image](https://github.com/user-attachments/assets/abdce6fe-b278-42c2-8cff-d2542cc99296)# Hierarchical Classifier using LLMs
+# Hierarchical Classifier using LLMs
 
 ## Product Overview
 The idea is to take a textual data as input (such as a IT incident tickets, customer helpdesk queries, or documents/emails) and predict the appropriate category at each level of a hierarchy. This system is useful when dealing with data that has multiple levels of granularity, and it's crucial for organizing information based on more specific or broad categories. This trainable listing fine-tunes Phi-3 model, and the resulting LoRA adapters can be directly used for inference. Users must provide datasets with textual descriptions of any specific domain and their corresponding multi-level labels, ensuring the label count does not surpass 256.
